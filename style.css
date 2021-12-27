@@ -3,7 +3,7 @@
     width: 650px;
 
 }
-#titulos{
+#titulos, #titulos1{
     text-align: center;
     font-size: 30px;
 }
@@ -26,6 +26,6 @@ div{
 font-size: 12px;
 text-align: center;
 }
-#asado{
+#asadolink{
     color: black;
 }
